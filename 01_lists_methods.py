@@ -1,0 +1,21 @@
+friends = [7,9,9,8,9.99, "jui","fayyad"]
+print(friends)
+friends.insert(3,333)
+print(friends)
+friends.append("golu")
+print(friends)
+list1 = [43,78,1,9,12,34,78.9]
+print(list1)
+list1.remove(43)
+print(list1)
+list1.pop(1)
+print(list1)
+list1.copy()
+print(list1)
+list1.reverse()
+print(list1)
+
+list1.sort()
+print(list1)
+list1.clear()
+print(list1)
