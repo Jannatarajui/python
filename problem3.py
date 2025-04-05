@@ -1,4 +1,2 @@
-import pyttsx3
-engine = pyttsx3.init()
-engine.say("I love you ")
-engine.runAndWait()
+a = input("enter the value of a ")
+print(type(a))
